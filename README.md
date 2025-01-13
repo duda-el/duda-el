@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Duda Elbakidze</h1>
 
 <h3 align="center">I am a Frontend Developer, UI/UX Designer, and Graphic Designer with expertise in creating functional and visually engaging digital experiences. Proficient in React, HTML, CSS, and JavaScript, I also have a strong design background, working with tools like Figma, Photoshop, and Illustrator. I focus on creating visually appealing designs for web and mobile platforms, as well as producing compelling graphic designs such as posters, covers, and more. While civil engineering is my starting point, my primary focus is on digital design and development. I continually refine my skills and stay updated on industry trends to create impactful digital products.</h3>
-![programming](https://github.com/user-attachments/assets/d188a1b8-86af-46da-a3ad-9e0e96dcadb5)
+
+![programming](https://github.com/user-attachments/assets/e8b25904-7733-4b87-9b9e-41a0f2ec4a0b)
+
 
 - 🔭 I’m currently working on [Zmna.ge](https://www.zmna.ge/)
 

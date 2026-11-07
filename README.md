@@ -1,16 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duda Elbakidze</h1>
 
-<h3 align="center">
-I’m a Front-End Developer passionate about building modern, functional, and high-performance web applications. 
-Skilled in React, JavaScript, HTML, and CSS, I focus on clean code, responsive design, and reliable integration with APIs. 
-I’m currently expanding my skills in <b>Python</b>, <b>pandas</b>, and <b>Django</b> — learning how to work with data, backend logic, and databases to build complete, data-driven applications. 
-My goal is to grow into a well-rounded developer capable of building both the frontend and backend of robust, scalable systems.
-</h3>
-
 ![programming](https://github.com/user-attachments/assets/e8b25904-7733-4b87-9b9e-41a0f2ec4a0b)
 
-- 🔭 I’m currently working on [Zmna.ge](https://www.zmna.ge/)
-- 🌱 I’m currently learning **Python (pandas, SQL, Django)**
 - 📫 How to reach me **dudaelbakidze94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
